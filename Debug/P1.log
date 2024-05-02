@@ -1,0 +1,67 @@
+﻿  Effects.cpp
+  Entity.cpp
+C:\Users\Matth\source\repos\Project 6\Entity.h(108,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Entity.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\Entity.h(109,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Entity.cpp')
+  
+  helper.cpp
+  LevelA.cpp
+C:\Users\Matth\source\repos\Project 6\Entity.h(108,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'LevelA.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\Entity.h(109,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'LevelA.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\LevelA.cpp(89,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LevelB.cpp
+C:\Users\Matth\source\repos\Project 6\Entity.h(108,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'LevelB.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\Entity.h(109,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'LevelB.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\LevelB.cpp(100,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LevelC.cpp
+C:\Users\Matth\source\repos\Project 6\Entity.h(108,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'LevelC.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\Entity.h(109,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'LevelC.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\LevelC.cpp(100,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\Matth\source\repos\Project 6\Entity.h(108,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\Entity.h(109,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\main.cpp(304,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Matth\source\repos\Project 6\main.cpp(309,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Matth\source\repos\Project 6\main.cpp(313,88): warning C4305: 'argument': truncation from 'double' to 'float'
+  Map.cpp
+C:\Users\Matth\source\repos\Project 6\Map.cpp(89,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matth\source\repos\Project 6\Map.cpp(90,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+C:\Users\Matth\source\repos\Project 6\Entity.h(108,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\Entity.h(109,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\Menu.cpp(77,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Scene.cpp
+C:\Users\Matth\source\repos\Project 6\Entity.h(108,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\Entity.h(109,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+  ShaderProgram.cpp
+  sprite.cpp
+  Utility.cpp
+C:\Users\Matth\source\repos\Project 6\Utility.cpp(56,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  P1.vcxproj -> C:\Users\Matth\source\repos\Project 6\Debug\P1.exe
