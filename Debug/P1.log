@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Matth\source\repos\Project 6\Entity.h(114,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\Entity.h(115,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matth\source\repos\Project 6\main.cpp(312,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Matth\source\repos\Project 6\main.cpp(317,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Matth\source\repos\Project 6\main.cpp(321,82): warning C4305: 'argument': truncation from 'double' to 'float'
+  P1.vcxproj -> C:\Users\Matth\source\repos\Project 6\Debug\P1.exe
